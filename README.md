@@ -13,7 +13,7 @@ This is a simple Streamlit-based web application that predicts house prices usin
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/ML_Projects.git
+git clone https://github.com/your-username/house_price_india.git
 cd ML_Projects
 ```
 
@@ -54,7 +54,7 @@ git commit -m "Initial commit"
 ### 2️⃣ Push to GitHub
 
 ```sh
-git remote add origin https://github.com/your-username/ML_Projects.git
+git remote add origin https://github.com/your-username/house_price_india.git
 git branch -M main
 git push -u origin main
 ```
@@ -126,6 +126,7 @@ Feel free to **fork**, **clone**, and submit **pull requests**!
 ## 📞 Contact
 
 For any queries, reach out via GitHub or Hugging Face.
+
 live demo - https://huggingface.co/spaces/genuu/House-Price-Prediction
 ---
 
