@@ -126,7 +126,7 @@ Feel free to **fork**, **clone**, and submit **pull requests**!
 ## 📞 Contact
 
 For any queries, reach out via GitHub or Hugging Face.
-
+live demo - https://huggingface.co/spaces/genuu/House-Price-Prediction
 ---
 
 🚀 Happy Coding!
